@@ -1,1 +1,4 @@
-# landing-page-cursojs
+# Deploy do site
+
+* https://landingpagecursofullstack.netlify.app/ 
+
